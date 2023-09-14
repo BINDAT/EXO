@@ -1,6 +1,0 @@
-https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/constante-magique/
-https://apprendre-php.com/tutoriels/tutoriel-7-les-tableaux-ou-arrays.html
-https://www.php.net/manual/fr/language.variables.php
-https://waytolearnx.com/2019/07/retour-a-la-ligne-en-php.html
-https://www.pierre-giraud.com/trier-tableau-javascript/
-https://www.php.net/manual/fr/ref.strings.php
