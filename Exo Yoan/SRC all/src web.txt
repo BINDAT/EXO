@@ -1,0 +1,9 @@
+https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/constante-magique/
+https://apprendre-php.com/tutoriels/tutoriel-7-les-tableaux-ou-arrays.html
+https://www.php.net/manual/fr/language.variables.php
+https://waytolearnx.com/2019/07/retour-a-la-ligne-en-php.html
+https://www.pierre-giraud.com/trier-tableau-javascript/
+https://www.php.net/manual/fr/ref.strings.php
+https://chat.openai.com/c/9518d968-4ac2-4048-a61e-77c780684d6e
+https://riptutorial.com/php/example/20542/type-hinting-no-return-void-
+ide rpg as400
